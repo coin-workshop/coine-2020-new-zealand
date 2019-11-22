@@ -24,7 +24,7 @@ COINE will inherit COIN's B-rating on the Computing Research and Education Assoc
 
 
 ## Important Dates
-(These dates are subject to later updates)
+<!--- (These dates are subject to later updates) -->
 
 - to be announced
 
