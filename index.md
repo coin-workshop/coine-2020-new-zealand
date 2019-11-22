@@ -19,7 +19,7 @@ The pervasiveness of "open systems" raises a range of challenges and opportuniti
 
 This workshop is an evolution of the COIN (Coordination, Organizations, Institutions and Norms in Agent Systems) workshop series that ran at various conferences including AAMAS
 (12 times), IJCAI, AAAI and ECAI since 2006 (see http://www2.pcs.usp.br/~coin), and produced 12 volumes of post-proceedings in Springer’s Lecture Notes in Artificial Intelligence. The change for this proposal is to explicitly add ethics to the name and acronym (now COINE), and to bring the notion of governance of MAS into the full workshop title, as
-this is the common objective uniting the various threads of research (coordination, organizations, etc.) included in the workshop name and acronym. This edition of COIN will be hosted by [AAMAS 2020](http://www.aamas2020.org).
+this is the common objective uniting the various threads of research (coordination, organizations, etc.) included in the workshop name and acronym. This edition of COIN will be hosted by [AAMAS 2020](https://aamas2020.conference.auckland.ac.nz/).
 
 
 This workshop will complement the main program by allowing a more relaxed and in-depth discussion of MAS from a social perspective, and previous editions under the COIN brand
