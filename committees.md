@@ -7,11 +7,9 @@ title: COINE
 
 ## COINE@AAMAS2020 CO-CHAIRS
 
-[Andrea Aler Tubella](mailto:andrea.aler@umu.se) (Umeå University, SE)
-
-[Stephen Cranefield](mailto:stephen.cranefield@otago.ac.nz) (University of Otago, NZ)
-
-[Christopher Frantz](mailto:christopher.frantz@ntnu.no) (Norwegian University of Science and Technology, NO)
+[Andrea Aler Tubella](mailto:andrea.aler@umu.se) (Umeå University, SE)  
+[Stephen Cranefield](mailto:stephen.cranefield@otago.ac.nz) (University of Otago, NZ)  
+[Christopher Frantz](mailto:christopher.frantz@ntnu.no) (Norwegian University of Science and Technology, NO)  
 
 ## Programme Committee 
 
