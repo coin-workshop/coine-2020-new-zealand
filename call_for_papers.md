@@ -28,11 +28,11 @@ COINE will inherit COIN's B-rating on the Computing Research and Education Assoc
 
 - to be announced
 
-<!--
-February 7, 2020 February 17, 2017: Deadline for paper submissions
-- March 2, 2017 March 15, 2017: Paper notifications sent
-- March 9, 2017 March 22, 2017: Camera-ready copy due
-- ~~May 8 or 9, 2017: Date of workshop -->
+
+//- February 7, 2020 February 17, 2017: Deadline for paper submissions
+//- March 2, 2017 March 15, 2017: Paper notifications sent
+//- March 9, 2017 March 22, 2017: Camera-ready copy due
+//- ~~May 8 or 9, 2017: Date of workshop -->
 
 ## Instructions for Authors
 
