@@ -20,6 +20,6 @@ Submission of a paper should be regarded as an undertaking that, should the pape
 Preliminary proceedings will be available before the conference.
 They will also be distributed to AAMAS 2020 registrants in electronic form. 
 
-As with previous COIN workshops, COINE plans to have LNCS postproceedings. Authors will be invited to submit revised and extended versions of their paper for consideration for a Springer LNCS volume combining the postproceedings of this workshop with those for a second COIN workshop to be held later in 2017.
+As with previous COIN workshops, COINE plans to have LNCS postproceedings. Authors will be invited to submit revised and extended versions of their paper for consideration for a Springer LNCS volume. Details will be published closer to submission time. 
 
 Revised papers must take into account the discussion held during the workshop; hence, only papers that are presented during the workshop will be considered for inclusion in the post-proceedings volume.
