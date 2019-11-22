@@ -30,7 +30,9 @@ have proven to foster collaboration among researchers in these topics. Under its
 
 - to be announced
 
-//- ~~February 7, 2017~~ February 17, 2017: Deadline for paper submissions
-//- ~~March 2, 2017~~ March 15, 2017: Paper notifications sent
-//- ~~March 9, 2017~~ March 22, 2017: Camera-ready copy due
-//- May 8 or 9, 2017: Date of workshop
+<!---
+- ~~February 7, 2017~~ February 17, 2017: Deadline for paper submissions
+- ~~March 2, 2017~~ March 15, 2017: Paper notifications sent
+- ~~March 9, 2017~~ March 22, 2017: Camera-ready copy due
+- May 8 or 9, 2017: Date of workshop
+-->
