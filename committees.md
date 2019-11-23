@@ -26,7 +26,7 @@ title: COINE
 - Wamberto Vasconcelos (University of Aberdeen, UK)
 - Javier Vazquez-Salceda (Center for Intelligent Data Analysis and Artificial Intelligence, Universitat Politecnica de Catalunya-BarcelonaTech, ES)
 - Marina De Vos (University of Bath, UK)
-- George Vouros (University of Piraeus, Greece)
+- George Vouros (University of Piraeus, GR)
 
 <!--
 - Mohsen Afsharchi (University of Zanjan, IR)
