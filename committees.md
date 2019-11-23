@@ -13,21 +13,20 @@ title: COINE
 
 ## Programme Committee 
 
-- Jaime Sichman (Universidade de São Paulo, BR)
+- Huib Aldewereld (HU University of Applied Sciences Utrecht, NL)
+- Olivier Boissier (Mines Saint-Etienne, FR)
+- Nicoletta Fornara (Università della Svizzera italiana (USI), CH)
 - Frank Dignum (Umea University, SE)
+- Pablo Noriega (IIIA-CSIC, ES)
 - Julian Padget (University of Bath, UK)
+- Jeremy Pitt (Imperial College London, UK)
+- M. Birna van Riemsdijk (University of Twente, NL)
+- Brian Scassellati (Yale, US)
+- Jaime Sichman (Universidade de São Paulo, BR)
 - Wamberto Vasconcelos (University of Aberdeen, UK)
+- Javier Vazquez-Salceda (Center for Intelligent Data Analysis and Artificial Intelligence, Universitat Politecnica de Catalunya-BarcelonaTech, ES)
 - Marina De Vos (University of Bath, UK)
 - George Vouros (University of Piraeus, Greece)
-- Pablo Noriega (IIIA-CSIC, ES)
-- Nicoletta Fornara (Università della Svizzera italiana (USI), CH)
-- Huib Aldewereld (HU University of Applied Sciences Utrecht, NL)
-- M. Birna van Riemsdijk (University of Twente, NL)
-- Olivier Boissier (Mines Saint-Etienne, FR)
-- Javier Vazquez-Salceda (Center for Intelligent Data Analysis and Artificial Intelligence, Universitat Politecnica de Catalunya-BarcelonaTech, ES)
-- Jeremy Pitt (Imperial College London, UK)
-- Brian Scassellati (Yale, US)
-
 
 <!--
 - Mohsen Afsharchi (University of Zanjan, IR)
@@ -121,11 +120,11 @@ title: COINE
 ## COIN(E) Steering Committee
 
 - Huib Aldewereld (Delft University of Technology, NL) 
-- Frank Dignum (Utrecht University, NL) 
+- Frank Dignum (Umeå University, SE) 
 - Pablo Noriega (Utrecht University, NL) 
 - Viviane Torres da Silva (IBM Research, BR) 
 - Olivier Boissier (Ecole Nationale Supérieure des Mines de Saint-Etienne, FR) 
-- Virginia Dignum (Utrecht University, NL) 
+- Virginia Dignum (Umeå University, SE) 
 - Julian Padget (University of Bath, UK) 
 - Wamberto Vasconcelos (University of Aberdeen, UK) 
 - Tina Balke (University of Surrey, UK) 
