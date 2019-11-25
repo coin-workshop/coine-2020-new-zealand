@@ -5,7 +5,7 @@ title: COINE
 
 # COMMITTEES
 
-## COINE@AAMAS2020 CO-CHAIRS
+## COINE@AAMAS2020 Co-Chairs
 
 [Andrea Aler Tubella](mailto:andrea.aler@umu.se) (Umeå University, SE)  
 [Stephen Cranefield](mailto:stephen.cranefield@otago.ac.nz) (University of Otago, NZ)  
@@ -15,8 +15,9 @@ title: COINE
 
 - Huib Aldewereld (HU University of Applied Sciences Utrecht, NL)
 - Olivier Boissier (Mines Saint-Etienne, FR)
-- Nicoletta Fornara (Università della Svizzera italiana (USI), CH)
 - Frank Dignum (Umeå University, SE)
+- Nicoletta Fornara (Università della Svizzera italiana (USI), CH)
+- Amineh Ghorbani (TU Delft, NL)
 - Eric T. Matson (Purdue University, US)
 - Martin Neumann (Johannes Gutenberg-Universität Mainz, DE)
 - Pablo Noriega (IIIA-CSIC, ES)
