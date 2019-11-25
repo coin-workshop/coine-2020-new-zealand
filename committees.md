@@ -3,7 +3,7 @@ layout: default
 title: COINE
 ---
 
-# COMMITTEES
+# Committees
 
 ## COINE@AAMAS2020 Co-Chairs
 
@@ -11,7 +11,7 @@ title: COINE
 [Stephen Cranefield](mailto:stephen.cranefield@otago.ac.nz) (University of Otago, NZ)  
 [Christopher Frantz](mailto:christopher.frantz@ntnu.no) (Norwegian University of Science and Technology, NO)  
 
-## Programme Committee 
+## Programme Committee
 
 - Huib Aldewereld (HU University of Applied Sciences Utrecht, NL)
 - Olivier Boissier (Mines Saint-Etienne, FR)
