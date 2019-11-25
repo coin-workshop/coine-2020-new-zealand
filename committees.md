@@ -30,7 +30,7 @@ title: COINE
 - Marina De Vos (University of Bath, UK)
 - George Vouros (University of Piraeus, GR)
 
-- *others to be confirmed*
+*Others to be confirmed*
 
 <!--
 - Mohsen Afsharchi (University of Zanjan, IR)
