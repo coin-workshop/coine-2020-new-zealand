@@ -16,7 +16,9 @@ title: COINE
 - Huib Aldewereld (HU University of Applied Sciences Utrecht, NL)
 - Olivier Boissier (Mines Saint-Etienne, FR)
 - Nicoletta Fornara (Università della Svizzera italiana (USI), CH)
-- Frank Dignum (Umea University, SE)
+- Frank Dignum (Umeå University, SE)
+- Eric T. Matson (Purdue University, US)
+- Martin Neumann (Johannes Gutenberg-Universität Mainz, DE)
 - Pablo Noriega (IIIA-CSIC, ES)
 - Julian Padget (University of Bath, UK)
 - Jeremy Pitt (Imperial College London, UK)
@@ -27,6 +29,8 @@ title: COINE
 - Javier Vazquez-Salceda (Center for Intelligent Data Analysis and Artificial Intelligence, Universitat Politecnica de Catalunya-BarcelonaTech, ES)
 - Marina De Vos (University of Bath, UK)
 - George Vouros (University of Piraeus, GR)
+
+- *others to be confirmed*
 
 <!--
 - Mohsen Afsharchi (University of Zanjan, IR)
@@ -117,6 +121,8 @@ title: COINE
 - George Vouros (University of Piraeus, GR)
 - Leendert van der Torre (U. Luxembourg, LU) -->
 
+
+<!---
 ## COIN(E) Steering Committee
 
 - Huib Aldewereld (Delft University of Technology, NL) 
@@ -136,3 +142,4 @@ title: COINE
 - Jaime Sichman (Universidade de Sao Paulo, BR) 
 - Marina de Vos (University of Bath, UK) 
 - George Vouros (University of Piraeus, GR)
+-->

@@ -5,7 +5,7 @@ title: COINE
 
 # Contact
 
-For any questions about COINE 2020 @ AAMAS please send an e-mail to one of the co-chairs at
+For any questions about COINE 2020 @ AAMAS, please send an e-mail to
 
 coine2020@easychair.org
 
