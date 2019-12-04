@@ -26,7 +26,12 @@ This edition of COINE will be hosted by [AAMAS 2020](https://aamas2020.conferenc
 
 ## Important Dates
 
-- to be announced
+Note: These dates are subject to further updates.
+
+- Paper submission: February 10, 2020
+- Author notifications: March 10, 2020
+- Camera-ready deadline: March 24, 2020
+- Workshop: May 9 or 10, 2020
 
 <!---
 - ~~February 7, 2017~~ February 17, 2017: Deadline for paper submissions

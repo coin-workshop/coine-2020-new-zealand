@@ -20,13 +20,17 @@ the issues above;
 - challenging or innovative ideas relevant to the field.
 
 The workshop complements the main AAMAS program by allowing a more relaxed and in-depth discussion of MAS from a social perspective and has proven to be an event that encourages debate, and fosters collaboration among researchers in these topics.
-COINE will inherit COIN's B-rating on the Computing Research and Education Association of Australasia (CORE) conference ranking list [http://portal.core.edu.au/conf-ranks/2160/](http://portal.core.edu.au/conf-ranks/2160/).
+COINE will inherit COIN's B-rating on the Computing Research and Education Association of Australasia (CORE) conference ranking list [http://portal.core.edu.au/conf-ranks/2160/](http://portal.core.edu.au/conf-ranks/2160/). COIN holds a B4 rating by the Qualis ranking from CAPES (Brazil).
 
 
 ## Important Dates
-<!--- (These dates are subject to later updates) -->
 
-- to be announced
+Note: These dates are subject to further updates.
+
+- Paper submission: February 10, 2020
+- Author notifications: March 10, 2020
+- Camera-ready deadline: March 24, 2020
+- Workshop: May 9 or 10, 2020
 
 <!---
 - February 7, 2020 February 17, 2017: Deadline for paper submissions
