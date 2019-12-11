@@ -26,6 +26,7 @@ title: COINE
 - M. Birna van Riemsdijk (University of Twente, NL)
 - Brian Scassellati (Yale, US)
 - Jaime Sichman (Universidade de São Paulo, BR)
+- Myrthe Tielman (TU Delft, NL)
 - Wamberto Vasconcelos (University of Aberdeen, UK)
 - Javier Vazquez-Salceda (Center for Intelligent Data Analysis and Artificial Intelligence, Universitat Politecnica de Catalunya-BarcelonaTech, ES)
 - Marina De Vos (University of Bath, UK)
