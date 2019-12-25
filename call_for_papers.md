@@ -20,6 +20,9 @@ the issues above;
 - challenging or innovative ideas relevant to the field.
 
 The workshop complements the main AAMAS program by allowing a more relaxed and in-depth discussion of MAS from a social perspective and has proven to be an event that encourages debate, and fosters collaboration among researchers in these topics.
+
+A specific emphasis of this year's iteration of COINE lies on the response to the wider uptake of COINE technologies within and across AAMAS communities, such as Social Robotics and the Reinforcement Learning. To leverage a broader understanding on how COINE-related themes are employed in these research disciplines, we will invite established researchers from the respective fields in order to highlight perspectives on COINE theory and technologies. Building on those insights, we will use this workshop to provide a platform to discuss the potentially varying viewpoints and facilitate the exploration of synergies as well as opportunities for cross fertilisation across community boundaries.
+
 COINE will inherit COIN's B-rating on the Computing Research and Education Association of Australasia (CORE) conference ranking list [http://portal.core.edu.au/conf-ranks/2160/](http://portal.core.edu.au/conf-ranks/2160/). COIN holds a B4 rating by the Qualis ranking from CAPES (Brazil).
 
 
@@ -49,7 +52,7 @@ Submission of a paper should be regarded as an undertaking that, should the pape
 
 Preliminary proceedings will be available before the conference. They will also be distributed to AAMAS 2020 registrants in electronic form. 
 
-As with previous COIN workshops, for this iteration of COINE we are planning to publish submissions in the form of LNCS post-proceedings. Authors will be invited to submit revised and extended versions of their paper for consideration in the post-proceedings of this workshop. 
+As with previous COIN workshops, COINE will publish post-proceedings in Springer's LNCS series. Authors will be invited to submit revised and extended versions of their paper for consideration in these post-proceedings. 
 
 Revised papers must take into account the discussion held during the workshop; hence, only papers that are presented during the workshop will be considered for inclusion in the post-proceedings volume.
 
