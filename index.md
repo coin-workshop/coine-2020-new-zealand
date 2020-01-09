@@ -3,7 +3,7 @@ layout: default
 title: COINE
 ---
 
-# Objectives
+## Objectives
 
 Coordination, organizations, institutions, norms and ethics are five key governance elements for the regulation of open multi-agent systems. The goal of the workshop is to bring together researchers in autonomous agents and multi-agent systems working on the scientific and technological aspects of social coordination, organizational theory, normative MAS, artificial or electronic institutions, norm-aware and ethical agents.
 
@@ -21,7 +21,7 @@ This workshop is an evolution of the COIN (Coordination, Organizations, Institut
 This edition of COINE will be hosted by [AAMAS 2020](https://aamas2020.conference.auckland.ac.nz/) and will complement the main conference program by allowing a more relaxed and in-depth discussion of MAS from a social perspective. Under its new COINE brand, this workshop will not only be of interest to its traditional sub-community of AAMAS participants (those researchers working on coordination, organisational, institutional and normative models and technologies for MAS), but also invites researchers investigating the growing field of ethical governance of MAS.
 
 
-# Important Dates
+## Important Dates
 
 Note: These dates are subject to further updates.
 

@@ -3,7 +3,7 @@ layout: default
 title: COINE
 ---
 
-# Call for Papers
+## Call for Papers
 
 The pervasiveness of "open systems" raises a range of challenges and opportunities for technologies in the area of autonomous agents and multi-agent systems. However, achieving and maintaining a "good" society is difficult to achieve as the participating entities (including human users), their modes of interaction or the intended purpose of the system may change over time. Moreover, in the case of open multi-agent systems, the autonomy of the agents can work against the effectiveness of the society. As a further trajectory of influence, coordination techniques such as distributed ledger technology can increase the autonomy and complexity of these open systems as a whole and challenge their governance. There is therefore a need for tools and techniques for articulating interactions in order to make the system more effective in attaining collective goals, more certain for participants or more predictable.
 
@@ -26,7 +26,7 @@ A specific emphasis of this year's iteration of COINE lies on the response to th
 COINE inherits COIN's B-rating on the Computing Research and Education Association of Australasia (CORE) conference ranking list [http://portal.core.edu.au/conf-ranks/2160/](http://portal.core.edu.au/conf-ranks/2160/). COIN holds a B4 rating by the Qualis ranking from CAPES (Brazil).
 
 
-## Important Dates
+### Important Dates
 
 Note: These dates are subject to further updates.
 
@@ -42,13 +42,13 @@ Note: These dates are subject to further updates.
 - ~~May 8 or 9, 2017: Date of workshop 
 -->
 
-## Instructions for Authors
+### Instructions for Authors
 
 For preparation of papers please follow the instructions for authors available at the Springer LNCS Web page. The length of each paper including figures and references may not exceed 16 pages. All papers must be written in English and submitted in PDF format. For submission of papers, please use the EasyChair site at: [https://easychair.org/conferences/?conf=coine2020](https://easychair.org/conferences/?conf=coine2020)
 
 Submission of a paper should be regarded as an undertaking that, should the paper be accepted, at least one of the authors will attend the workshop to present the work. 
 
-## Proceedings
+### Proceedings
 
 Preliminary proceedings will be available before the conference. They will also be distributed to AAMAS 2020 registrants in electronic form. 
 

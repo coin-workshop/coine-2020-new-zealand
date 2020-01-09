@@ -3,15 +3,15 @@ layout: default
 title: COINE
 ---
 
-# Committees
+## Committees
 
-## COINE@AAMAS2020 Co-Chairs
+### COINE@AAMAS2020 Co-Chairs
 
 [Andrea Aler Tubella](mailto:andrea.aler@umu.se) (Umeå University, SE)  
 [Stephen Cranefield](mailto:stephen.cranefield@otago.ac.nz) (University of Otago, NZ)  
 [Christopher Frantz](mailto:christopher.frantz@ntnu.no) (Norwegian University of Science and Technology, NO)  
 
-## Programme Committee
+### Programme Committee
 
 - Huib Aldewereld (HU University of Applied Sciences Utrecht, NL)
 - Olivier Boissier (Mines Saint-Etienne, FR)
