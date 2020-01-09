@@ -3,7 +3,9 @@ layout: default
 title: COINE
 ---
 
-# Contact
+# International Workshop on Coordination, Organizations, Institutions, Norms and Ethics for Governance of Multi-Agent Systems (COINE)
+
+## Contact
 
 For any questions about COINE 2020 @ AAMAS, please send an e-mail to
 

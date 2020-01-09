@@ -3,11 +3,13 @@ layout: default
 title: COINE
 ---
 
-# Call for Papers
+# International Workshop on Coordination, Organizations, Institutions, Norms and Ethics for Governance of Multi-Agent Systems (COINE)
+
+## Call for Papers
 
 The pervasiveness of "open systems" raises a range of challenges and opportunities for technologies in the area of autonomous agents and multi-agent systems. However, achieving and maintaining a "good" society is difficult to achieve as the participating entities (including human users), their modes of interaction or the intended purpose of the system may change over time. Moreover, in the case of open multi-agent systems, the autonomy of the agents can work against the effectiveness of the society. As a further trajectory of influence, coordination techniques such as distributed ledger technology can increase the autonomy and complexity of these open systems as a whole and challenge their governance. There is therefore a need for tools and techniques for articulating interactions in order to make the system more effective in attaining collective goals, more certain for participants or more predictable.
 
-Coordination, organizations, institutions, norms and ethics are five key governance elements for the regulation of open multi-agent systems. This workshop is an evolution of the COIN (Coordination, Organizations, Institutions and Norms in Agent Systems) workshop series that ran at various conferences including AAMAS (12 times), IJCAI, AAAI and ECAI since 2006<!-- (see [Workshop Series Website](http://www2.pcs.usp.br/~coin))-->, and produced 12 volumes of post-proceedings in Springer's Lecture Notes in Artificial Intelligence.
+Coordination, organizations, institutions, norms and ethics are five key governance elements for the regulation of open multi-agent systems. This workshop is an evolution of the COIN (Coordination, Organizations, Institutions and Norms in Agent Systems) workshop series that ran at various conferences including AAMAS (12 times), IJCAI, AAAI and ECAI since 2006 (see [Workshop Series Website](http://www2.pcs.usp.br/~coin)), and produced 12 volumes of post-proceedings in Springer's Lecture Notes in Artificial Intelligence.
 
 Continuing this tradition, the goal of the COINE workshop is to bring together researchers in autonomous agents and multi-agent systems working on the scientific and technological aspects of social coordination, organizational theory, normative MAS, artificial or electronic institutions, norm-aware and ethical agents.
 
@@ -23,7 +25,7 @@ The workshop complements the main AAMAS program by allowing a more relaxed and i
 
 A specific emphasis of this year's iteration of COINE lies on the response to the wider uptake of COINE technologies within and across AAMAS communities, such as Social Robotics and the Reinforcement Learning. To leverage a broader understanding on how COINE-related themes are employed in these research disciplines, we will invite established researchers from the respective fields in order to highlight their perspectives on and adoption of COINE theory and technologies. Building on those insights, we will use this workshop to provide a platform to discuss the potentially varying viewpoints and facilitate the exploration of synergies as well as opportunities for cross-fertilisation across community boundaries.
 
-COINE will inherit COIN's B-rating on the Computing Research and Education Association of Australasia (CORE) conference ranking list [http://portal.core.edu.au/conf-ranks/2160/](http://portal.core.edu.au/conf-ranks/2160/). COIN holds a B4 rating by the Qualis ranking from CAPES (Brazil).
+COINE inherits COIN's B-rating on the Computing Research and Education Association of Australasia (CORE) conference ranking list [http://portal.core.edu.au/conf-ranks/2160/](http://portal.core.edu.au/conf-ranks/2160/). COIN holds a B4 rating by the Qualis ranking from CAPES (Brazil).
 
 
 ## Important Dates
