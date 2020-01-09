@@ -3,9 +3,7 @@ layout: default
 title: COINE
 ---
 
-# International Workshop on Coordination, Organizations, Institutions, Norms and Ethics for Governance of Multi-Agent Systems (COINE)
-
-## Call for Papers
+# Call for Papers
 
 The pervasiveness of "open systems" raises a range of challenges and opportunities for technologies in the area of autonomous agents and multi-agent systems. However, achieving and maintaining a "good" society is difficult to achieve as the participating entities (including human users), their modes of interaction or the intended purpose of the system may change over time. Moreover, in the case of open multi-agent systems, the autonomy of the agents can work against the effectiveness of the society. As a further trajectory of influence, coordination techniques such as distributed ledger technology can increase the autonomy and complexity of these open systems as a whole and challenge their governance. There is therefore a need for tools and techniques for articulating interactions in order to make the system more effective in attaining collective goals, more certain for participants or more predictable.
 

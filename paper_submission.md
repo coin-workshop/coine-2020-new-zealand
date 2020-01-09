@@ -3,11 +3,9 @@ layout: default
 title: COINE
 ---
 
-# International Workshop on Coordination, Organizations, Institutions, Norms and Ethics for Governance of Multi-Agent Systems (COINE)
+# Paper Submission
 
-## Paper Submission
-
-### Instructions for Authors
+## Instructions for Authors
 
 For preparation of papers please follow the instructions for authors available at the [Springer LNCS Web page](https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines).
 The length of each paper including figures and references may not exceed 16 pages.
@@ -17,7 +15,7 @@ For submission of papers, please use the EasyChair site at [https://easychair.or
 
 Submission of a paper should be regarded as an undertaking that, should the paper be accepted, at least one of the authors will attend the workshop to present the work. 
 
-### Proceedings
+## Proceedings
 
 Preliminary proceedings will be available before the conference.
 They will also be distributed to AAMAS 2020 registrants in electronic form. 
