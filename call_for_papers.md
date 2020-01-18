@@ -58,7 +58,7 @@ Submission of a paper should be regarded as an undertaking that, should the pape
 
 ### Proceedings
 
-Preliminary proceedings will be available before the conference. They will also be distributed to AAMAS 2020 registrants in electronic form. 
+Preliminary proceedings will be available via the workshop web site.
 
 As with previous COIN workshops, COINE will publish post-proceedings in Springer's LNCS series. Authors will be invited to submit revised and extended versions of their paper for consideration in these post-proceedings. 
 
