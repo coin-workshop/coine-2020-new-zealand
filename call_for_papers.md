@@ -5,6 +5,14 @@ title: COINE
 
 ## Call for Papers
 
+COINE 2020 is co-located with the International Conference on Autonomous Agents and Multiagent Systems (AAMAS),
+Auckland, New Zealand, 9-13 May, 2020
+(https://aamas2020.conference.auckland.ac.nz/)
+
+### *Submission deadline: 5 February, 2020 (more details below)*
+
+### Overview
+
 The pervasiveness of "open systems" raises a range of challenges and opportunities for technologies in the area of autonomous agents and multi-agent systems. However, achieving and maintaining a "good" society is difficult to achieve as the participating entities (including human users), their modes of interaction or the intended purpose of the system may change over time. Moreover, in the case of open multi-agent systems, the autonomy of the agents can work against the effectiveness of the society. As a further trajectory of influence, coordination techniques such as distributed ledger technology can increase the autonomy and complexity of these open systems as a whole and challenge their governance. There is therefore a need for tools and techniques for articulating interactions in order to make the system more effective in attaining collective goals, more certain for participants or more predictable.
 
 Coordination, organizations, institutions, norms and ethics are five key governance elements for the regulation of open multi-agent systems. This workshop is an evolution of the COIN (Coordination, Organizations, Institutions and Norms in Agent Systems) workshop series that ran at various conferences including AAMAS (12 times), IJCAI, AAAI and ECAI since 2006 (see [Workshop Series Website](http://www2.pcs.usp.br/~coin)), and produced 12 volumes of post-proceedings in Springer's Lecture Notes in Artificial Intelligence.
