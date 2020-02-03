@@ -9,7 +9,7 @@ COINE 2020 is co-located with the International Conference on Autonomous Agents 
 Auckland, New Zealand, 9-13 May, 2020
 (https://aamas2020.conference.auckland.ac.nz/)
 
-### *Submission deadline: 5 February, 2020 (more details below)*
+### *Submission deadline: ~~5 February, 2020~~ 12 February, 2020 (more details below)*
 
 ### Overview
 
@@ -38,10 +38,10 @@ COINE inherits COIN's B-rating on the Computing Research and Education Associati
 
 Note: These dates are subject to further updates.
 
-- Paper submission: February 5, 2020
-- Author notifications: March 15, 2020
-- Camera-ready deadline: March 24, 2020
-- Workshop: May 9 or 10, 2020
+- Paper submission: ~~5 February, 2020~~ 12 February, 2020
+- Author notifications: 10 March, 2020
+- Camera-ready deadline: 24 March, 2020
+- Workshop: 9 or 10 May, 2020
 
 <!---
 - February 7, 2020 February 17, 2017: Deadline for paper submissions
