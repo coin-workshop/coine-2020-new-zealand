@@ -14,6 +14,7 @@ title: COINE
 ### Programme Committee
 
 - Huib Aldewereld (HU University of Applied Sciences Utrecht, NL)
+- Leonardo Rosa Amado (Pontifícia Universidade Católica do Rio Grande do Sul, BR)
 - Olivier Boissier (Mines Saint-Etienne, FR)
 - Frank Dignum (Umeå University, SE)
 - Nicoletta Fornara (Università della Svizzera italiana (USI), CH)
