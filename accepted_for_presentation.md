@@ -1,6 +1,6 @@
 ---
 layout: default
-title: COIN
+title: COINE
 ---
 
 # Papers accepted for presentation
