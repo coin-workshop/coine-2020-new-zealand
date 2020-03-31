@@ -29,7 +29,7 @@ Note: These dates are subject to further updates.
 
 - Paper submission (extended): ~~5th February, 2020~~ 23rd February, 2020
 - Author notifications: 10th March, 2020
-- Camera-ready deadline: 24th March, 2020
+- Camera-ready deadline: 15th April, 2020
 - Workshop: 9th or 10th May, 2020
 
 <!---
