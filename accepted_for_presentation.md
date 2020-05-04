@@ -11,7 +11,7 @@ title: COINE
 
 - Janos Kramar, Neil Rabinowitz, Tom Eccles and Andrea Tacchetti. Should I tear down this wall? Optimizing social metrics by evaluating novel actions [\[PDF\]](https://arxiv.org/abs/2004.07625)
 
-- René Mellema, Maarten Jensen and Frank Dignum. Social rules for agent systems [\[PDF\]]()
+- René Mellema, Maarten Jensen and Frank Dignum. Social rules for agent systems [\[PDF\]](https://arxiv.org/abs/2004.12797)
 
 - Andreasa Morris-Martin, Marina De Vos and Julian Padget. A Norm Emergence Framework for NormativeMAS – Position Paper [\[PDF\]](https://arxiv.org/abs/2004.02575)
 
