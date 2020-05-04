@@ -5,7 +5,7 @@ title: COINE
 
 # Papers accepted for presentation
 
-*Note: All links redirect to the underlying paper or presentation. Use the Ctrl button while clicking the link to open new tabs instead.*
+*Note: All links redirect to the external paper or presentation respectively. Use the Ctrl button while clicking the link to open new tabs instead.*
 
 - Jithin Cheriyan, Bastin Tony Roy Savarimuthu and Stephen Cranefield. Norm violation in online communities - A study of StackOverflow comments [\[PDF\]](https://arxiv.org/abs/2004.05589) [\[Presentation\]](https://underline.io/lecture/95-norm-violation)
 
