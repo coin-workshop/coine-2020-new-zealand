@@ -5,7 +5,9 @@ title: COINE
 
 # Papers accepted for presentation
 
-- Jithin Cheriyan, Bastin Tony Roy Savarimuthu and Stephen Cranefield. Norm violation in online communities - A study of StackOverflow comments [\[PDF\]](https://arxiv.org/abs/2004.05589)
+*Note: All links redirect to the underlying paper or presentation. Use the Ctrl button while clicking the link to open new tabs instead.*
+
+- Jithin Cheriyan, Bastin Tony Roy Savarimuthu and Stephen Cranefield. Norm violation in online communities - A study of StackOverflow comments [\[PDF\]](https://arxiv.org/abs/2004.05589) [\[Presentation]\]](https://underline.io/lecture/95-norm-violation)
 
 - Janos Kramar, Neil Rabinowitz, Tom Eccles and Andrea Tacchetti. Should I tear down this wall? Optimizing social metrics by evaluating novel actions [\[PDF\]](https://arxiv.org/abs/2004.07625)
 
@@ -17,5 +19,5 @@ title: COINE
 
 - Amir Hosein Afshar Sedigh, Martin Purvis, Bastin Tony Roy Savarimuthu, Christopher Frantz and Maryam Purvis: Impact of different belief facets on agents' decision -- a refined cognitive architecture [\[PDF\]](https://arxiv.org/abs/2004.11858)
 
-- Luciano Cavalcante Siebert, Rijk Mercuur, Virginia Dignum, Jeroen van den Hoven and Catholijn Jonker. Improving Confidence in the Estimation of Values and Norms [\[PDF\]](https://arxiv.org/abs/2004.01056)
+- Luciano Cavalcante Siebert, Rijk Mercuur, Virginia Dignum, Jeroen van den Hoven and Catholijn Jonker. Improving Confidence in the Estimation of Values and Norms [\[PDF\]](https://arxiv.org/abs/2004.01056) [\[Presentation\]](https://underline.io/lecture/97-improving-confidence-in-the-estimation-of-values-and-norms)
 
