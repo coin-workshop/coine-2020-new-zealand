@@ -7,7 +7,7 @@ title: COINE
 
 *Note: All links redirect to the underlying paper or presentation. Use the Ctrl button while clicking the link to open new tabs instead.*
 
-- Jithin Cheriyan, Bastin Tony Roy Savarimuthu and Stephen Cranefield. Norm violation in online communities - A study of StackOverflow comments [\[PDF\]](https://arxiv.org/abs/2004.05589) [\[Presentation]\]](https://underline.io/lecture/95-norm-violation)
+- Jithin Cheriyan, Bastin Tony Roy Savarimuthu and Stephen Cranefield. Norm violation in online communities - A study of StackOverflow comments [\[PDF\]](https://arxiv.org/abs/2004.05589) [\[Presentation\]](https://underline.io/lecture/95-norm-violation)
 
 - Janos Kramar, Neil Rabinowitz, Tom Eccles and Andrea Tacchetti. Should I tear down this wall? Optimizing social metrics by evaluating novel actions [\[PDF\]](https://arxiv.org/abs/2004.07625)
 
