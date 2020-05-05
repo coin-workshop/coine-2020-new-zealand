@@ -7,11 +7,15 @@ title: COINE
 
 The workshop will be held on 9th May 2020 from 19:00 New Zealand Standard Time (NZST) onwards. Please find the detailed schedule below.
 
+In order to participate in the discussion sessions, please register using the following form *at least one day in advance* to ensure proper access.
+
+[Registration Form](https://forms.office.com/Pages/ResponsePage.aspx?id=cgahCS-CZ0SluluzdZZ8BQdL_VDtSf5KqxIe0t_wrZRUMTNUMVdCNUZQSDZENERJVktZVDRJTlAwMiQlQCN0PWcu)
+
 *Note: This version of the schedule is preliminary and subject to confirmation.*
 
 | Time           |      Activity      |  Presenters/Authors |
 |-----------------:|-----------------------|------|
-| | *Introduction* | Workshop Chairs |
+| 18:50 (8:50 CET) | *Introduction* | Workshop Chairs |
 | 19:00-19:20 (9:00-9:20 CET) | *Discussion Session 1: Empirical Approaches to Norm Detection* | |
 | | Mining International Political Norms from the GDELT Database [\[PDF\]](https://arxiv.org/abs/2003.14027) | Rohit Murali, Suravi Patnaik and Stephen Cranefield |
 | | Norm violation in online communities - A study of StackOverflow comments [\[PDF\]](https://arxiv.org/abs/2004.05589) [\[Presentation\]](https://underline.io/lecture/95-norm-violation) | Jithin Cheriyan, Bastin Tony Roy Savarimuthu and Stephen Cranefield |
