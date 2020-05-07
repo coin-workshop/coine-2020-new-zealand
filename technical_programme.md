@@ -12,7 +12,7 @@ In order to participate in the discussion sessions, please register using the fo
 
 ## Schedule
 
-Note: All links redirect to the external paper or presentation respectively. Use the Ctrl button while clicking the link to open new tabs instead.
+*Note: All links redirect to the external paper or presentation respectively. Use the Ctrl button while clicking the link to open new tabs instead.*
 
 | Time           |      Activity      |  Presenters/Authors |
 |-----------------:|-----------------------|------|
