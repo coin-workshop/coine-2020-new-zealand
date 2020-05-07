@@ -7,7 +7,7 @@ title: COINE
 
 The workshop will be held on 9th May 2020 from 18:50 New Zealand Standard Time (NZST) onwards. Please find the detailed schedule below.
 
-In order to participate in the discussion sessions, please register using the following form *at least one day in advance* to ensure proper access: [Registration Form](https://forms.office.com/Pages/ResponsePage.aspx?id=cgahCS-CZ0SluluzdZZ8BQdL_VDtSf5KqxIe0t_wrZRUMTNUMVdCNUZQSDZENERJVktZVDRJTlAwMiQlQCN0PWcu)
+In order to participate in the discussion sessions, please register using the following form ideally *at least one day in advance* to ensure proper access: [Registration Form](https://forms.office.com/Pages/ResponsePage.aspx?id=cgahCS-CZ0SluluzdZZ8BQdL_VDtSf5KqxIe0t_wrZRUMTNUMVdCNUZQSDZENERJVktZVDRJTlAwMiQlQCN0PWcu)
 
 
 ## Schedule
