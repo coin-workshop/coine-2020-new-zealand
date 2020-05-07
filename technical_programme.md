@@ -24,7 +24,7 @@ In order to participate in the discussion sessions, please register using the fo
 | | Improving Confidence in the Estimation of Values and Norms [\[PDF\]](https://arxiv.org/abs/2004.01056) [\[Presentation Video\]](https://underline.io/lecture/97-improving-confidence-in-the-estimation-of-values-and-norms) | Luciano Cavalcante Siebert, Rijk Mercuur, Virginia Dignum, Jeroen van den Hoven and Catholijn Jonker |
 | | Should I tear down this wall? Optimizing social metrics by evaluating novel actions [\[PDF\]](https://arxiv.org/abs/2004.07625) | Janos Kramar, Neil Rabinowitz, Tom Eccles and Andrea Tacchetti |
 | 19:40-20:00 (9:40-10:00 CET) | *Discussion Session 3: Conceptual Frameworks & Architectures* | |
-| | Social rules for agent systems [\[PDF\]](https://arxiv.org/abs/2004.12797) | René Mellema, Maarten Jensen and Frank Dignum |
+| | Social rules for agent systems [\[PDF\]](https://arxiv.org/abs/2004.12797) [\[Presentation Video\]](https://screencast-o-matic.com/watch/cYfZIuAxid) | René Mellema, Maarten Jensen and Frank Dignum |
 | | A Norm Emergence Framework for NormativeMAS – Position Paper  [\[PDF\]](https://arxiv.org/abs/2004.02575) [\[Presentation Video\]](https://underline.io/lecture/115-a-norm-emergence-framework-for-normative-mas-position-paper) | Andreasa Morris-Martin, Marina De Vos and Julian Padget |
 | | Impact of different belief facets on agents' decision [\[PDF\]](https://arxiv.org/abs/2004.11858) [\[Presentation Video\]](https://screencast-o-matic.com/watch/cYfZXgAwvJ) | Amir Hosein Afshar Sedigh, Martin Purvis, Bastin Tony Roy Savarimuthu, Christopher Frantz and Maryam Purvis |
 | 20:00 (10:00 CET) | *Open discussion* | Workshop Chairs |
