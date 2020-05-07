@@ -10,6 +10,10 @@ The workshop will be held on 9th May 2020 from 18:50 New Zealand Standard Time (
 In order to participate in the discussion sessions, please register using the following form *at least one day in advance* to ensure proper access: [Registration Form](https://forms.office.com/Pages/ResponsePage.aspx?id=cgahCS-CZ0SluluzdZZ8BQdL_VDtSf5KqxIe0t_wrZRUMTNUMVdCNUZQSDZENERJVktZVDRJTlAwMiQlQCN0PWcu)
 
 
+## Schedule
+
+Note: All links redirect to the external paper or presentation respectively. Use the Ctrl button while clicking the link to open new tabs instead.
+
 | Time           |      Activity      |  Presenters/Authors |
 |-----------------:|-----------------------|------|
 | 18:50 (8:50 CET) | *Introduction* | Workshop Chairs |
