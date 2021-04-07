@@ -6,7 +6,7 @@ title: COINE
 <!-- **Note: Submission deadline extended to 23rd February, 2020** -->
 
 <div id=".container">
-  <b>Note:</b> The workshop proceedings of COIN 2017 and COINE 2020 have been published as a combined Springer LNCS volume and are available via <a href="https://doi.org/10.1007/978-3-030-72376-7">SpringerLink</href>.
+  <b>Note:</b> The workshop proceedings of COIN 2017 and COINE 2020 have been published as a combined Springer LNCS volume and are available via <a href="https://doi.org/10.1007/978-3-030-72376-7">SpringerLink</a>.
 </div>
 
 ## Objectives
