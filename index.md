@@ -5,6 +5,10 @@ title: COINE
 
 <!-- **Note: Submission deadline extended to 23rd February, 2020** -->
 
+<div id=".container">
+  <b>Note:</b> The workshop proceedings of COIN 2017 and COINE 2020 have been published as a combined Springer LNCS volume and are available via <a href="https://doi.org/10.1007/978-3-030-72376-7">SpringerLink</href>.
+</div>
+
 ## Objectives
 
 Coordination, organizations, institutions, norms and ethics are five key governance elements for the regulation of open multi-agent systems. The goal of the workshop is to bring together researchers in autonomous agents and multi-agent systems working on the scientific and technological aspects of social coordination, organizational theory, normative MAS, artificial or electronic institutions, norm-aware and ethical agents.
