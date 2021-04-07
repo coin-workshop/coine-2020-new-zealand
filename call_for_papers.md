@@ -36,8 +36,6 @@ COINE inherits COIN's B-rating on the Computing Research and Education Associati
 
 ### Important Dates
 
-Note: These dates are subject to further updates.
-
 - Paper submission: ~~5th February, 2020~~ 23rd February, 2020
 - Author notifications: 10th March, 2020
 - Camera-ready deadline: 15th April, 2020
@@ -58,9 +56,9 @@ Submission of a paper should be regarded as an undertaking that, should the pape
 
 ### Proceedings
 
-Preliminary proceedings will be available via the workshop web site.
+Preliminary proceedings are available via the workshop web site.
 
-As with previous COIN workshops, COINE will publish post-proceedings in Springer's LNCS series. Authors will be invited to submit revised and extended versions of their paper for consideration in these post-proceedings. 
+As with previous COIN workshops, COINE has published post-proceedings in Springer's LNCS series, together with selected papers from the 2017 edition. Authors have submitted revised and extended versions of their paper for consideration in these post-proceedings. 
 
-Revised papers must take into account the discussion held during the workshop; hence, only papers that are presented during the workshop will be considered for inclusion in the post-proceedings volume.
+Revised papers took into account the discussion held during the workshop; hence, only papers that are presented during the workshop were considered for inclusion in the post-proceedings volume.
 

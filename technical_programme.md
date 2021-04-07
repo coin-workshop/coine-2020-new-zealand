@@ -5,11 +5,7 @@ title: COINE
 
 # Technical Programme
 
-The workshop will be held on 9th May 2020 from 18:50 New Zealand Standard Time (NZST) onwards. Please find the detailed schedule below.
-
-In order to participate in the discussion sessions, please register using the following form ideally *at least one day in advance* to ensure proper access: [Registration Form](https://forms.office.com/Pages/ResponsePage.aspx?id=cgahCS-CZ0SluluzdZZ8BQdL_VDtSf5KqxIe0t_wrZRUMTNUMVdCNUZQSDZENERJVktZVDRJTlAwMiQlQCN0PWcu)
-
-Should you experience problems joining the COINE 2020 platform, or if you wish to join last minute on Saturday, please contact us via this [mail address](mailto:82f1309a.studntnu.onmicrosoft.com@emea.teams.ms) for immediate reaction.
+The workshop was held on 9th May 2020 from 18:50 New Zealand Standard Time (NZST) onwards. Please find the detailed schedule below for reference.
 
 ## Schedule
 
